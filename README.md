@@ -25,3 +25,14 @@ Sample of the datasets looks like below:
 |...     |... |...|
 
 
+## Highlights
+```
+Input : 병신 실망 매우 실망 ㅜㅜ 쓰레기
+Result: 부정(negative)
+
+Input : 개굳 개쩐다
+Result: 긍정(positive)
+
+Input : 아오 1점도 주기아깝다 알바를 위한 알바에 의한 알바의 영화네  진심재미없네에휴
+Result: 부정(negative)
+```
