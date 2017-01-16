@@ -1,0 +1,13 @@
+# Exclude Data
+*.tsv
+*.db
+*.pkl
+.DS_*
+[0-9]*/
+
+# Exclude iPython Notebook Checkpoint
+.ipynb_check*
+
+# Exclude Neural network meta checkpoint
+NN_*
+checkpoint*
